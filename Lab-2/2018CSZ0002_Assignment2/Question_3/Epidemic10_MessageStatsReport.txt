@@ -1,0 +1,273 @@
+Message stats for scenario Epidemic10
+sim_time: 0.0000
+created: 0
+started: 0
+relayed: 0
+aborted: 0
+dropped: 0
+removed: 0
+delivered: 0
+delivery_prob: 0.0000
+response_prob: 0.0000
+overhead_ratio: NaN
+latency_avg: NaN
+latency_med: NaN
+hopcount_avg: NaN
+hopcount_med: 0
+buffertime_avg: NaN
+buffertime_med: NaN
+rtt_avg: NaN
+rtt_med: NaN
+
+Message stats for scenario Epidemic10
+sim_time: 3600.1000
+created: 120
+started: 2307
+relayed: 826
+aborted: 1480
+dropped: 896
+removed: 0
+delivered: 7
+delivery_prob: 0.0583
+response_prob: 0.0000
+overhead_ratio: 117.0000
+latency_avg: 180.3429
+latency_med: 165.9000
+hopcount_avg: 2.1429
+hopcount_med: 2
+buffertime_avg: 138.3699
+buffertime_med: 119.3000
+rtt_avg: NaN
+rtt_med: NaN
+
+Message stats for scenario Epidemic10
+sim_time: 7200.0000
+created: 242
+started: 4668
+relayed: 1575
+aborted: 3093
+dropped: 1744
+removed: 0
+delivered: 8
+delivery_prob: 0.0331
+response_prob: 0.0000
+overhead_ratio: 195.8750
+latency_avg: 178.8250
+latency_med: 168.2000
+hopcount_avg: 2.0000
+hopcount_med: 2
+buffertime_avg: 140.8572
+buffertime_med: 124.8000
+rtt_avg: NaN
+rtt_med: NaN
+
+Message stats for scenario Epidemic10
+sim_time: 10800.0000
+created: 363
+started: 6885
+relayed: 2370
+aborted: 4515
+dropped: 2691
+removed: 0
+delivered: 12
+delivery_prob: 0.0331
+response_prob: 0.0000
+overhead_ratio: 196.5000
+latency_avg: 164.2333
+latency_med: 165.9000
+hopcount_avg: 2.0000
+hopcount_med: 2
+buffertime_avg: 143.4339
+buffertime_med: 130.8000
+rtt_avg: NaN
+rtt_med: NaN
+
+Message stats for scenario Epidemic10
+sim_time: 14400.0000
+created: 487
+started: 8989
+relayed: 3131
+aborted: 5857
+dropped: 3554
+removed: 0
+delivered: 21
+delivery_prob: 0.0431
+response_prob: 0.0000
+overhead_ratio: 148.0952
+latency_avg: 177.9429
+latency_med: 168.3000
+hopcount_avg: 2.0952
+hopcount_med: 2
+buffertime_avg: 141.7280
+buffertime_med: 128.3000
+rtt_avg: NaN
+rtt_med: NaN
+
+Message stats for scenario Epidemic10
+sim_time: 18000.0000
+created: 609
+started: 11245
+relayed: 3909
+aborted: 7335
+dropped: 4468
+removed: 0
+delivered: 22
+delivery_prob: 0.0361
+response_prob: 0.0000
+overhead_ratio: 176.6818
+latency_avg: 175.2909
+latency_med: 168.3000
+hopcount_avg: 2.0909
+hopcount_med: 2
+buffertime_avg: 140.9313
+buffertime_med: 126.4000
+rtt_avg: NaN
+rtt_med: NaN
+
+Message stats for scenario Epidemic10
+sim_time: 21600.1000
+created: 729
+started: 13320
+relayed: 4686
+aborted: 8633
+dropped: 5357
+removed: 0
+delivered: 25
+delivery_prob: 0.0343
+response_prob: 0.0000
+overhead_ratio: 186.4400
+latency_avg: 175.9120
+latency_med: 168.3000
+hopcount_avg: 2.0400
+hopcount_med: 2
+buffertime_avg: 140.5357
+buffertime_med: 126.0000
+rtt_avg: NaN
+rtt_med: NaN
+
+Message stats for scenario Epidemic10
+sim_time: 25200.1000
+created: 848
+started: 15436
+relayed: 5411
+aborted: 10025
+dropped: 6205
+removed: 0
+delivered: 32
+delivery_prob: 0.0377
+response_prob: 0.0000
+overhead_ratio: 168.0938
+latency_avg: 180.6031
+latency_med: 177.7000
+hopcount_avg: 2.2500
+hopcount_med: 2
+buffertime_avg: 140.4138
+buffertime_med: 126.1000
+rtt_avg: NaN
+rtt_med: NaN
+
+Message stats for scenario Epidemic10
+sim_time: 28800.1000
+created: 971
+started: 17422
+relayed: 6097
+aborted: 11325
+dropped: 7015
+removed: 0
+delivered: 34
+delivery_prob: 0.0350
+response_prob: 0.0000
+overhead_ratio: 178.3235
+latency_avg: 179.9206
+latency_med: 177.7000
+hopcount_avg: 2.2941
+hopcount_med: 2
+buffertime_avg: 140.3876
+buffertime_med: 125.6000
+rtt_avg: NaN
+rtt_med: NaN
+
+Message stats for scenario Epidemic10
+sim_time: 32400.1000
+created: 1091
+started: 19784
+relayed: 6833
+aborted: 12949
+dropped: 7845
+removed: 0
+delivered: 39
+delivery_prob: 0.0357
+response_prob: 0.0000
+overhead_ratio: 174.2051
+latency_avg: 178.1179
+latency_med: 175.4000
+hopcount_avg: 2.3077
+hopcount_med: 2
+buffertime_avg: 140.6517
+buffertime_med: 125.6000
+rtt_avg: NaN
+rtt_med: NaN
+
+Message stats for scenario Epidemic10
+sim_time: 36000.1000
+created: 1214
+started: 21413
+relayed: 7445
+aborted: 13965
+dropped: 8590
+removed: 0
+delivered: 44
+delivery_prob: 0.0362
+response_prob: 0.0000
+overhead_ratio: 168.2045
+latency_avg: 177.6545
+latency_med: 181.5000
+hopcount_avg: 2.4091
+hopcount_med: 2
+buffertime_avg: 140.7025
+buffertime_med: 125.6000
+rtt_avg: NaN
+rtt_med: NaN
+
+Message stats for scenario Epidemic10
+sim_time: 39600.1000
+created: 1335
+started: 23664
+relayed: 8234
+aborted: 15430
+dropped: 9498
+removed: 0
+delivered: 46
+delivery_prob: 0.0345
+response_prob: 0.0000
+overhead_ratio: 178.0000
+latency_avg: 177.9891
+latency_med: 181.5000
+hopcount_avg: 2.3696
+hopcount_med: 2
+buffertime_avg: 140.2594
+buffertime_med: 125.1000
+rtt_avg: NaN
+rtt_med: NaN
+
+Message stats for scenario Epidemic10
+sim_time: 43200.1000
+created: 1457
+started: 26408
+relayed: 9141
+aborted: 17265
+dropped: 10508
+removed: 0
+delivered: 51
+delivery_prob: 0.0350
+response_prob: 0.0000
+overhead_ratio: 178.2353
+latency_avg: 171.7039
+latency_med: 172.2000
+hopcount_avg: 2.3529
+hopcount_med: 2
+buffertime_avg: 140.0970
+buffertime_med: 125.2000
+rtt_avg: NaN
+rtt_med: NaN
+

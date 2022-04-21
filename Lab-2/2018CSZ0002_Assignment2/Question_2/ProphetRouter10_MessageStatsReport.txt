@@ -1,0 +1,273 @@
+Message stats for scenario ProphetRouter10
+sim_time: 0.0000
+created: 0
+started: 0
+relayed: 0
+aborted: 0
+dropped: 0
+removed: 0
+delivered: 0
+delivery_prob: 0.0000
+response_prob: 0.0000
+overhead_ratio: NaN
+latency_avg: NaN
+latency_med: NaN
+hopcount_avg: NaN
+hopcount_med: 0
+buffertime_avg: NaN
+buffertime_med: NaN
+rtt_avg: NaN
+rtt_med: NaN
+
+Message stats for scenario ProphetRouter10
+sim_time: 3600.1000
+created: 120
+started: 563
+relayed: 193
+aborted: 367
+dropped: 293
+removed: 0
+delivered: 3
+delivery_prob: 0.0250
+response_prob: 0.0000
+overhead_ratio: 63.3333
+latency_avg: 154.7667
+latency_med: 147.2000
+hopcount_avg: 1.3333
+hopcount_med: 1
+buffertime_avg: 188.2171
+buffertime_med: 201.2000
+rtt_avg: NaN
+rtt_med: NaN
+
+Message stats for scenario ProphetRouter10
+sim_time: 7200.0000
+created: 242
+started: 1173
+relayed: 409
+aborted: 763
+dropped: 623
+removed: 0
+delivered: 5
+delivery_prob: 0.0207
+response_prob: 0.0000
+overhead_ratio: 80.8000
+latency_avg: 192.9600
+latency_med: 228.5000
+hopcount_avg: 1.2000
+hopcount_med: 1
+buffertime_avg: 187.5846
+buffertime_med: 209.2000
+rtt_avg: NaN
+rtt_med: NaN
+
+Message stats for scenario ProphetRouter10
+sim_time: 10800.0000
+created: 363
+started: 1752
+relayed: 614
+aborted: 1138
+dropped: 956
+removed: 0
+delivered: 5
+delivery_prob: 0.0138
+response_prob: 0.0000
+overhead_ratio: 121.8000
+latency_avg: 192.9600
+latency_med: 228.5000
+hopcount_avg: 1.2000
+hopcount_med: 1
+buffertime_avg: 187.4899
+buffertime_med: 212.1000
+rtt_avg: NaN
+rtt_med: NaN
+
+Message stats for scenario ProphetRouter10
+sim_time: 14400.0000
+created: 487
+started: 2318
+relayed: 784
+aborted: 1533
+dropped: 1249
+removed: 0
+delivered: 7
+delivery_prob: 0.0144
+response_prob: 0.0000
+overhead_ratio: 111.0000
+latency_avg: 174.3857
+latency_med: 228.5000
+hopcount_avg: 1.1429
+hopcount_med: 1
+buffertime_avg: 189.0651
+buffertime_med: 216.3000
+rtt_avg: NaN
+rtt_med: NaN
+
+Message stats for scenario ProphetRouter10
+sim_time: 18000.0000
+created: 609
+started: 2852
+relayed: 961
+aborted: 1889
+dropped: 1535
+removed: 0
+delivered: 12
+delivery_prob: 0.0197
+response_prob: 0.0000
+overhead_ratio: 79.0833
+latency_avg: 184.0000
+latency_med: 206.8000
+hopcount_avg: 1.2500
+hopcount_med: 1
+buffertime_avg: 191.6247
+buffertime_med: 220.7000
+rtt_avg: NaN
+rtt_med: NaN
+
+Message stats for scenario ProphetRouter10
+sim_time: 21600.1000
+created: 729
+started: 3514
+relayed: 1201
+aborted: 2313
+dropped: 1891
+removed: 0
+delivered: 14
+delivery_prob: 0.0192
+response_prob: 0.0000
+overhead_ratio: 84.7857
+latency_avg: 176.3143
+latency_med: 172.6000
+hopcount_avg: 1.4286
+hopcount_med: 1
+buffertime_avg: 189.5837
+buffertime_med: 217.3000
+rtt_avg: NaN
+rtt_med: NaN
+
+Message stats for scenario ProphetRouter10
+sim_time: 25200.1000
+created: 848
+started: 4169
+relayed: 1442
+aborted: 2727
+dropped: 2258
+removed: 0
+delivered: 15
+delivery_prob: 0.0177
+response_prob: 0.0000
+overhead_ratio: 95.1333
+latency_avg: 180.5467
+latency_med: 172.6000
+hopcount_avg: 1.6000
+hopcount_med: 1
+buffertime_avg: 188.1081
+buffertime_med: 214.0000
+rtt_avg: NaN
+rtt_med: NaN
+
+Message stats for scenario ProphetRouter10
+sim_time: 28800.1000
+created: 971
+started: 4851
+relayed: 1691
+aborted: 3159
+dropped: 2623
+removed: 0
+delivered: 17
+delivery_prob: 0.0175
+response_prob: 0.0000
+overhead_ratio: 98.4706
+latency_avg: 183.4000
+latency_med: 181.3000
+hopcount_avg: 1.6471
+hopcount_med: 1
+buffertime_avg: 187.0224
+buffertime_med: 212.3000
+rtt_avg: NaN
+rtt_med: NaN
+
+Message stats for scenario ProphetRouter10
+sim_time: 32400.1000
+created: 1091
+started: 5476
+relayed: 1913
+aborted: 3563
+dropped: 2966
+removed: 0
+delivered: 17
+delivery_prob: 0.0156
+response_prob: 0.0000
+overhead_ratio: 111.5294
+latency_avg: 183.4000
+latency_med: 181.3000
+hopcount_avg: 1.6471
+hopcount_med: 1
+buffertime_avg: 186.3935
+buffertime_med: 210.5000
+rtt_avg: NaN
+rtt_med: NaN
+
+Message stats for scenario ProphetRouter10
+sim_time: 36000.1000
+created: 1214
+started: 6137
+relayed: 2136
+aborted: 4001
+dropped: 3313
+removed: 0
+delivered: 18
+delivery_prob: 0.0148
+response_prob: 0.0000
+overhead_ratio: 117.6667
+latency_avg: 181.0444
+latency_med: 181.3000
+hopcount_avg: 1.6667
+hopcount_med: 2
+buffertime_avg: 186.1574
+buffertime_med: 210.6000
+rtt_avg: NaN
+rtt_med: NaN
+
+Message stats for scenario ProphetRouter10
+sim_time: 39600.1000
+created: 1335
+started: 6741
+relayed: 2352
+aborted: 4388
+dropped: 3645
+removed: 0
+delivered: 24
+delivery_prob: 0.0180
+response_prob: 0.0000
+overhead_ratio: 97.0000
+latency_avg: 168.4167
+latency_med: 175.8000
+hopcount_avg: 1.5417
+hopcount_med: 1
+buffertime_avg: 186.6508
+buffertime_med: 211.3000
+rtt_avg: NaN
+rtt_med: NaN
+
+Message stats for scenario ProphetRouter10
+sim_time: 43200.1000
+created: 1457
+started: 7339
+relayed: 2573
+aborted: 4766
+dropped: 3988
+removed: 0
+delivered: 25
+delivery_prob: 0.0172
+response_prob: 0.0000
+overhead_ratio: 101.9200
+latency_avg: 169.6280
+latency_med: 175.8000
+hopcount_avg: 1.5600
+hopcount_med: 1
+buffertime_avg: 186.4198
+buffertime_med: 210.6000
+rtt_avg: NaN
+rtt_med: NaN
+

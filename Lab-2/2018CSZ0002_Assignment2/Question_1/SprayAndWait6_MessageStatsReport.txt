@@ -1,0 +1,273 @@
+Message stats for scenario SprayAndWait2
+sim_time: 0.0000
+created: 0
+started: 0
+relayed: 0
+aborted: 0
+dropped: 0
+removed: 0
+delivered: 0
+delivery_prob: 0.0000
+response_prob: 0.0000
+overhead_ratio: 0.0000
+latency_avg: 0.0000
+latency_med: NaN
+hopcount_avg: NaN
+hopcount_med: 0
+buffertime_avg: NaN
+buffertime_med: NaN
+rtt_avg: NaN
+rtt_med: NaN
+
+Message stats for scenario SprayAndWait2
+sim_time: 3600.1000
+created: 120
+started: 758
+relayed: 282
+aborted: 472
+dropped: 380
+removed: 0
+delivered: 2
+delivery_prob: 0.0167
+response_prob: 0.0000
+overhead_ratio: 140.0000
+latency_avg: 158.5500
+latency_med: 228.5000
+hopcount_avg: 1.0000
+hopcount_med: 1
+buffertime_avg: 194.6776
+buffertime_med: 208.3000
+rtt_avg: NaN
+rtt_med: NaN
+
+Message stats for scenario SprayAndWait2
+sim_time: 7200.0000
+created: 242
+started: 1665
+relayed: 622
+aborted: 1042
+dropped: 827
+removed: 0
+delivered: 6
+delivery_prob: 0.0248
+response_prob: 0.0000
+overhead_ratio: 102.6667
+latency_avg: 211.7833
+latency_med: 245.8000
+hopcount_avg: 1.1667
+hopcount_med: 1
+buffertime_avg: 191.9593
+buffertime_med: 207.6000
+rtt_avg: NaN
+rtt_med: NaN
+
+Message stats for scenario SprayAndWait2
+sim_time: 10800.0000
+created: 363
+started: 2506
+relayed: 919
+aborted: 1587
+dropped: 1251
+removed: 0
+delivered: 6
+delivery_prob: 0.0165
+response_prob: 0.0000
+overhead_ratio: 152.1667
+latency_avg: 211.7833
+latency_med: 245.8000
+hopcount_avg: 1.1667
+hopcount_med: 1
+buffertime_avg: 191.6277
+buffertime_med: 209.2000
+rtt_avg: NaN
+rtt_med: NaN
+
+Message stats for scenario SprayAndWait2
+sim_time: 14400.0000
+created: 487
+started: 3402
+relayed: 1180
+aborted: 2221
+dropped: 1640
+removed: 0
+delivered: 9
+delivery_prob: 0.0185
+response_prob: 0.0000
+overhead_ratio: 130.1111
+latency_avg: 178.0333
+latency_med: 228.5000
+hopcount_avg: 1.3333
+hopcount_med: 1
+buffertime_avg: 191.2238
+buffertime_med: 209.3000
+rtt_avg: NaN
+rtt_med: NaN
+
+Message stats for scenario SprayAndWait2
+sim_time: 18000.0000
+created: 609
+started: 4392
+relayed: 1485
+aborted: 2905
+dropped: 2049
+removed: 0
+delivered: 14
+delivery_prob: 0.0230
+response_prob: 0.0000
+overhead_ratio: 105.0714
+latency_avg: 187.1000
+latency_med: 206.8000
+hopcount_avg: 1.5000
+hopcount_med: 1
+buffertime_avg: 191.2362
+buffertime_med: 209.3000
+rtt_avg: NaN
+rtt_med: NaN
+
+Message stats for scenario SprayAndWait2
+sim_time: 21600.1000
+created: 729
+started: 5230
+relayed: 1803
+aborted: 3427
+dropped: 2493
+removed: 0
+delivered: 15
+delivery_prob: 0.0206
+response_prob: 0.0000
+overhead_ratio: 119.2000
+latency_avg: 181.4400
+latency_med: 206.0000
+hopcount_avg: 1.5333
+hopcount_med: 1
+buffertime_avg: 190.4453
+buffertime_med: 209.0000
+rtt_avg: NaN
+rtt_med: NaN
+
+Message stats for scenario SprayAndWait2
+sim_time: 25200.1000
+created: 848
+started: 6149
+relayed: 2130
+aborted: 4019
+dropped: 2940
+removed: 0
+delivered: 15
+delivery_prob: 0.0177
+response_prob: 0.0000
+overhead_ratio: 141.0000
+latency_avg: 181.4400
+latency_med: 206.0000
+hopcount_avg: 1.5333
+hopcount_med: 1
+buffertime_avg: 190.7907
+buffertime_med: 210.1000
+rtt_avg: NaN
+rtt_med: NaN
+
+Message stats for scenario SprayAndWait2
+sim_time: 28800.1000
+created: 971
+started: 7090
+relayed: 2454
+aborted: 4635
+dropped: 3378
+removed: 0
+delivered: 18
+delivery_prob: 0.0185
+response_prob: 0.0000
+overhead_ratio: 135.3333
+latency_avg: 190.0111
+latency_med: 206.8000
+hopcount_avg: 1.7222
+hopcount_med: 1
+buffertime_avg: 191.3245
+buffertime_med: 211.0000
+rtt_avg: NaN
+rtt_med: NaN
+
+Message stats for scenario SprayAndWait2
+sim_time: 32400.1000
+created: 1091
+started: 8023
+relayed: 2767
+aborted: 5255
+dropped: 3808
+removed: 0
+delivered: 19
+delivery_prob: 0.0174
+response_prob: 0.0000
+overhead_ratio: 144.6316
+latency_avg: 186.9211
+latency_med: 206.0000
+hopcount_avg: 1.7895
+hopcount_med: 1
+buffertime_avg: 191.1108
+buffertime_med: 210.1000
+rtt_avg: NaN
+rtt_med: NaN
+
+Message stats for scenario SprayAndWait2
+sim_time: 36000.1000
+created: 1214
+started: 8906
+relayed: 3068
+aborted: 5837
+dropped: 4238
+removed: 0
+delivered: 21
+delivery_prob: 0.0173
+response_prob: 0.0000
+overhead_ratio: 145.0952
+latency_avg: 185.6286
+latency_med: 205.7000
+hopcount_avg: 1.8571
+hopcount_med: 2
+buffertime_avg: 190.9099
+buffertime_med: 209.9000
+rtt_avg: NaN
+rtt_med: NaN
+
+Message stats for scenario SprayAndWait2
+sim_time: 39600.1000
+created: 1335
+started: 9743
+relayed: 3392
+aborted: 6350
+dropped: 4664
+removed: 0
+delivered: 28
+delivery_prob: 0.0210
+response_prob: 0.0000
+overhead_ratio: 120.1429
+latency_avg: 176.0750
+latency_med: 205.7000
+hopcount_avg: 1.7857
+hopcount_med: 1
+buffertime_avg: 191.7749
+buffertime_med: 211.2000
+rtt_avg: NaN
+rtt_med: NaN
+
+Message stats for scenario SprayAndWait2
+sim_time: 43200.1000
+created: 1457
+started: 10609
+relayed: 3698
+aborted: 6911
+dropped: 5098
+removed: 0
+delivered: 30
+delivery_prob: 0.0206
+response_prob: 0.0000
+overhead_ratio: 122.2667
+latency_avg: 178.1967
+latency_med: 205.7000
+hopcount_avg: 1.8333
+hopcount_med: 2
+buffertime_avg: 192.3827
+buffertime_med: 211.7000
+rtt_avg: NaN
+rtt_med: NaN
+
